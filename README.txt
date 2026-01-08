@@ -1,5 +1,4 @@
 Proyecto API - Roberto García Delgado
-URL: https://rickandmortyapi.com/api/character
 
 Datos: La API devuelve objetos JSON con nombres, especies y fotos de personajes.
 
@@ -14,3 +13,5 @@ El diseño es sencillo y utiliza Flexbox para que las tarjetas se adapten a la p
 
 Problemas encontrados
 Al principio los datos no aparecían porque intenté recorrer la respuesta directamente, pero los personajes estaban dentro de una propiedad llamada results. Lo solucioné revisando la estructura del JSON en la consola. También tuve que ajustar el CSS de las imágenes para que todas tuvieran el mismo tamaño.
+
+URL demo: https://robertogd75.github.io/Busqueda-APIs/
